@@ -77,7 +77,7 @@ I'm now loooking for my first role in tech so I can build amazing software for a
   </tbody>
 </table>
 
-
+## Stats
 <!-- <p align="center"><img src= "https://github-readme-stats.vercel.app/api?username=ArifEbrahim&show_icons=true&theme=react&hide=issues""/></p> -->
 <a href="">
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=react">
@@ -86,7 +86,7 @@ I'm now loooking for my first role in tech so I can build amazing software for a
 <img src ="https://www.codewars.com/users/ArifEbrahim/badges/large">
 </a>
 
-## Connect with me
+## Contact me
 
  <a href="https://www.linkedin.com/in/arif-e/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
