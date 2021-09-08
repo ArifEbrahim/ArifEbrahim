@@ -5,9 +5,9 @@ Hey there, I'm a software developer based in London. I enjoy solving difficult p
 ## Projects
 | Name | Description | Technologies |
 | ---- | ----------- | ------------ |
-| [_Tutoroom_](https://github.com/ArifEbrahim/tutoroom_fe) | Final project at Makers. A web app that allows tutors and students to connect. | React, JavaScript, CSS, JWT, Axios, Rails API |
-| [_Catbook_](https://github.com/ArifEbrahim/Catbook) | A simplified clone of Facebook... but for cats. | Ruby on Rails, jQuery, PostgreSQL, HTML, CSS, RSpec, Capybara, Heroku |
-| [_MakersBnB_](https://github.com/ArifEbrahim/makers_bnb) | A simplified clone of AirBnB. | Ruby, Sinatra, HTML, CSS, RSpec, Capybara |
-| [_Bowling Challenge_](https://github.com/ArifEbrahim/bowling_challenge_JS) | A bowling scorecard calculator. | JavaScript, HTML, CSS, Jasmine |
-| [_Blog app_](https://github.com/ArifEbrahim/blog_JS) | A full-stack Javascript app that lets you create blog posts. | JavaScript, Node, Express, MongoDB, Bootstrap |
-| [_Notes app_](https://github.com/ArifEbrahim/notes_app) | A single-page JavaScript app that lets you take notes. | JavaScript, HTML, CSS, API calls |
+| [__Tutoroom__](https://github.com/ArifEbrahim/tutoroom_fe) | Final project at Makers. A web app that allows tutors and students to connect. | React, JavaScript, CSS, JWT, Axios, Rails API |
+| [__Catbook__](https://github.com/ArifEbrahim/Catbook) | A simplified clone of Facebook... but for cats. | Ruby on Rails, jQuery, PostgreSQL, HTML, CSS, RSpec, Capybara, Heroku |
+| [__MakersBnB__](https://github.com/ArifEbrahim/makers_bnb) | A simplified clone of AirBnB. | Ruby, Sinatra, HTML, CSS, RSpec, Capybara |
+| [__Bowling Challenge__](https://github.com/ArifEbrahim/bowling_challenge_JS) | A bowling scorecard calculator. | JavaScript, HTML, CSS, Jasmine |
+| [__Blog app__](https://github.com/ArifEbrahim/blog_JS) | A full-stack Javascript app that lets you create blog posts. | JavaScript, Node, Express, MongoDB, Bootstrap |
+| [__Notes app__](https://github.com/ArifEbrahim/notes_app) | A single-page JavaScript app that lets you take notes. | JavaScript, HTML, CSS, API calls |
