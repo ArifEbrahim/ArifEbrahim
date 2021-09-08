@@ -19,4 +19,4 @@ I'm now loooking for my first role in tech so I can build amazing software for a
 
 ## Skills
 
-<p align="left"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=onedark" /></p>
+<p align="left"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=cobalt" /></p>
