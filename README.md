@@ -19,10 +19,54 @@ I'm now loooking for my first role in tech so I can build amazing software for a
 
 ## Skills
 
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+          <li> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></li>
+          <li> <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"></li>
+          <li> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"></li>
+          <li><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Node.js</li>
+          <li>Express</li>
+          <li>React</li>
+          <li>AJAX</li>
+          <li>Bootstrap</li>
+          <li>JQuery</li>
+          <li>Ruby on Rails</li>
+          <li>Sinatra</li>
+          <li>MongoDB</li>
+          <li>PostgreSQL</li>
+          <li>Heroku</li>
+          <li>Git</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Jest</li>
+          <li>Jasmine</li>
+          <li>RSpec</li>
+          <li>Capybara</li>
+         <li>JUnit</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
-## GitHub Stats
-
-<p align="center"><img src= "https://github-readme-stats.vercel.app/api?username=ArifEbrahim&show_icons=true&theme=react&hide=issues""/></p>
+<!-- <p align="center"><img src= "https://github-readme-stats.vercel.app/api?username=ArifEbrahim&show_icons=true&theme=react&hide=issues""/></p> -->
 <p align="center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=react""/></p>
 
