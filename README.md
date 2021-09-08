@@ -25,41 +25,53 @@ I'm now loooking for my first role in tech so I can build amazing software for a
       <th>Languages</th>
       <th>Technologies</th>
       <th>Testing Frameworks</th>
+      <th>Concepts</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="vertical-align: top">
-        <ul style="list-style: none">
-          <li> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></li>
-          <li> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></li>
-          <li> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></li>
-          <li><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></li>
+        <ul>
+          <li>JavaScript</li>
+          <li>Ruby</li>
+          <li>HTML5</li>
+          <li>CSS3</li>
         </ul>
       </td>
       <td style="vertical-align: top">
         <ul>
-          <li>Node.js</li>
-          <li>Express</li>
           <li>React</li>
+          <li>Node</li>
+          <li>Express</li>
           <li>AJAX</li>
           <li>Bootstrap</li>
-          <li>JQuery</li>
           <li>Ruby on Rails</li>
           <li>Sinatra</li>
           <li>MongoDB</li>
           <li>PostgreSQL</li>
-          <li>Heroku</li>
-          <li>Git</li>
         </ul>
       </td>
       <td style="vertical-align: top">
         <ul>
           <li>Jest</li>
+          <li>React Testing Library</li>
           <li>Jasmine</li>
           <li>RSpec</li>
           <li>Capybara</li>
-         <li>JUnit</li>
+          <li>Insomnia</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Test Driven Development</li>
+          <li>Agile Software Development</li>
+          <li>Object Oriented Programming</li>
+          <li>RESTful APIs</li>
+          <li>Team collaboration</li>
+          <li>Pair programming</li>
+          <li>Continuous Integration & Deployment</li>
+          <li>DVCS / Git workflow</li>
+          <li>Project planning: Trello, class diagrams, wireframes</li>
         </ul>
       </td>
     </tr>
