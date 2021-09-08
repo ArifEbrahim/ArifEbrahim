@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[!header](./images/gh_banner.jpg)
+![header](./images/gh_banner.jpg)
