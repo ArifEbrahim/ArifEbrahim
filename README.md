@@ -85,4 +85,4 @@ I'm now loooking for my first role in tech so I can build amazing software for a
 
  <a href="https://www.linkedin.com/in/arif-e/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-[Codewars](https://www.codewars.com/users/jhoffner/badges/large)
+<img src ="https://www.codewars.com/users/jhoffner/badges/large">
