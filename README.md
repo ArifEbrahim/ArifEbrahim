@@ -1,6 +1,6 @@
 ![header](./images/gh_banner.png)
 
-Hey there, I'm a software developer based in London. I enjoy solving difficult problems by writing clean, testable and DRY code. I recently graduated from Europe's leading coding bootcamp ![Makers Academy](https://makers.tech/) which taught me the fundamentals of software development like **TDD, Agile software development, OOP and debugging**. I'm now loooking for my first role in tech so I can build amazing software for an innovative company.
+Hey there, I'm a software developer based in London. I enjoy solving difficult problems by writing clean, testable and DRY code. I recently graduated from Europe's leading coding bootcamp [Makers Academy](https://makers.tech/) which taught me the fundamentals of software development like **TDD, Agile software development, OOP and debugging**. I'm now loooking for my first role in tech so I can build amazing software for an innovative company.
 
 ## Projects
 | Name | Description | Technologies |
