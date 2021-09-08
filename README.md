@@ -20,6 +20,6 @@ I'm now loooking for my first role in tech so I can build amazing software for a
 ## Skills
 
 <p align="left">
-  <img src= "https://github-readme-stats.vercel.app/api?username=aArifEbrahim&show_icons=true&theme=radical)"/>
+  <img src= "https://github-readme-stats.vercel.app/api?username=ArifEbrahim&show_icons=true&theme=radical)"/>
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=radical"/>
 </p>
