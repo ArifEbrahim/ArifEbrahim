@@ -19,13 +19,10 @@ I'm now loooking for my first role in tech so I can build amazing software for a
 
 ## Skills
 
+
+
 ## GitHub Stats
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=radical) -->
+<p align="center"><img src= "https://github-readme-stats.vercel.app/api?username=ArifEbrahim&show_icons=true&theme=react&hide=issues""/></p>
+<p align="center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=react""/></p>
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArifEbrahim&show_icons=true&theme=radical" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=radical" />
-</a>
