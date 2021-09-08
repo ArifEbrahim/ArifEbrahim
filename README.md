@@ -1,10 +1,11 @@
 ![header](./images/gh_banner.png)
 
-Hey there, I'm a software developer based in London. I enjoy solving difficult problems by writing clean, testable and DRY code. 
+Hey there, I'm a **software developer** based in London. I enjoy solving difficult problems by writing clean, testable and DRY code. 
 
 I recently graduated from Europe's leading coding bootcamp [Makers Academy](https://makers.tech/) which taught me the fundamentals of software development like **TDD, Agile software development, OOP and debugging**. I documented what I learned each week at Makers in my [Learning Log](https://github.com/ArifEbrahim/learning-log). 
 
 I'm now loooking for my first role in tech so I can build amazing software for an innovative company.
+
 
 ## Projects
 | Name | Description | Technologies |
@@ -67,8 +68,6 @@ I'm now loooking for my first role in tech so I can build amazing software for a
           <li>Agile Software Development</li>
           <li>Object Oriented Programming</li>
           <li>RESTful APIs</li>
-          <li>Team collaboration</li>
-          <li>Pair programming</li>
           <li>Continuous Integration & Deployment</li>
           <li>DVCS / Git workflow</li>
           <li>Project planning: Trello, class diagrams, wireframes</li>
@@ -82,3 +81,8 @@ I'm now loooking for my first role in tech so I can build amazing software for a
 <!-- <p align="center"><img src= "https://github-readme-stats.vercel.app/api?username=ArifEbrahim&show_icons=true&theme=react&hide=issues""/></p> -->
 <p align="center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=react""/></p>
 
+## Connect with me
+
+ <a href="https://www.linkedin.com/in/arif-e/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+[Codewars](https://www.codewars.com/users/jhoffner/badges/large)
