@@ -15,8 +15,8 @@ I'm now loooking for my first role in tech so I can build amazing software for a
 | [__MakersBnB__](https://github.com/ArifEbrahim/makers_bnb) | A simplified clone of AirBnB. | Ruby, Sinatra, HTML, CSS, RSpec, Capybara |
 | [__Bowling Challenge__](https://github.com/ArifEbrahim/bowling_challenge_JS) | A bowling scorecard calculator. | JavaScript, HTML, CSS, Jasmine |
 | [__Blog app__](https://github.com/ArifEbrahim/blog_JS) | A full-stack Javascript app that lets you create blog posts. | JavaScript, Node, Express, MongoDB, Bootstrap |
-| [__Notes app__](https://github.com/ArifEbrahim/notes_app) | A single-page JavaScript app that lets you take notes. | JavaScript, HTML, CSS, API calls |
-| [__Bank tech test__](https://github.com/ArifEbrahim/bank_tech_test) | An example tech test that demonstrates the best code I can write. | JavaScript, Jest|
+| [__Notes app__](https://github.com/ArifEbrahim/notes_app) | A single-page JavaScript app that lets you take notes. I also built a testing library from scratch for this app | JavaScript, HTML, CSS, API calls |
+| [__Bank tech test__](https://github.com/ArifEbrahim/bank_tech_test) | An example tech test that demonstrates the best code I can write. | JavaScript, Jest, ESLint |
 
 ## Skills
 
