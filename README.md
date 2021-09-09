@@ -77,6 +77,8 @@ I'm now loooking for my first role in tech so I can build amazing software for a
   </tbody>
 </table>
 
+<p align="center"><img src= "https://www.codewars.com/users/ArifEbrahim/badges/large"/></p>
+
 ## Stats
 
 <a href="">
