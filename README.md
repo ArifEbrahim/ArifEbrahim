@@ -78,12 +78,12 @@ I'm now loooking for my first role in tech so I can build amazing software for a
 </table>
 
 ## Stats
-<!-- <p align="center"><img src= "https://github-readme-stats.vercel.app/api?username=ArifEbrahim&show_icons=true&theme=react&hide=issues""/></p> -->
+
 <a href="">
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=react">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArifEbrahim&count_private=true&show_icons=true&include_all_commits=true&theme=react" height="175px" />
 </a>
-<a href="https://www.codewars.com/users/ArifEbrahim">
-<img src ="https://www.codewars.com/users/ArifEbrahim/badges/large">
+<a href="">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=react" height="175px"/>
 </a>
 
 ## Contact me
