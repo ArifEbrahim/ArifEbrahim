@@ -69,7 +69,7 @@ I'm now loooking for my first role in tech so I can build amazing software for a
           <li>Object Oriented Programming</li>
           <li>RESTful APIs</li>
           <li>Continuous Integration & Deployment</li>
-          <li>DVCS / Git workflow</li>
+          <li>DCVS / Git workflow</li>
           <li>Project planning: Trello, class diagrams, wireframes</li>
         </ul>
       </td>
