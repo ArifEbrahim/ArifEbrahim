@@ -10,12 +10,12 @@ I'm now loooking for my first role in tech so I can build amazing software for a
 ## Projects
 | Name | Description | Technologies |
 | ---- | ----------- | ------------ |
-| [__Tutoroom__](https://github.com/ArifEbrahim/tutoroom_fe) | Final project at Makers. A web app that allows tutors and students to connect. | React, JavaScript, CSS, JWT, Axios, Rails API |
+| [__Tutoroom__](https://github.com/ArifEbrahim/tutoroom_fe) | Final project at Makers. A web app that allows tutors and students to connect. This is the React frontend that works with a Ruby on Rails API backend | React, JavaScript, CSS, JWT, Axios, Rails API |
 | [__Catbook__](https://github.com/ArifEbrahim/Catbook) | A simplified clone of Facebook... but for cats. | Ruby on Rails, jQuery, PostgreSQL, HTML, CSS, RSpec, Capybara, Heroku |
 | [__MakersBnB__](https://github.com/ArifEbrahim/makers_bnb) | A simplified clone of AirBnB. | Ruby, Sinatra, HTML, CSS, RSpec, Capybara |
 | [__Bowling Challenge__](https://github.com/ArifEbrahim/bowling_challenge_JS) | A bowling scorecard calculator. | JavaScript, HTML, CSS, Jasmine |
 | [__Blog app__](https://github.com/ArifEbrahim/blog_JS) | A full-stack Javascript app that lets you create blog posts. | JavaScript, Node, Express, MongoDB, Bootstrap |
-| [__Notes app__](https://github.com/ArifEbrahim/notes_app) | A single-page JavaScript app that lets you take notes. I also built a testing library from scratch for this app | JavaScript, HTML, CSS, API calls |
+| [__Notes app__](https://github.com/ArifEbrahim/notes_app) | A single-page JavaScript app that lets you take notes. I also built a testing library from scratch for this app. | JavaScript, HTML, CSS, API calls |
 | [__Bank tech test__](https://github.com/ArifEbrahim/bank_tech_test) | An example tech test that demonstrates the best code I can write. | JavaScript, Jest, ESLint |
 
 ## Skills
@@ -70,7 +70,7 @@ I'm now loooking for my first role in tech so I can build amazing software for a
           <li>RESTful APIs</li>
           <li>Continuous Integration & Deployment</li>
           <li>DCVS / Git workflow</li>
-          <li>Project planning: Trello, class diagrams, wireframes</li>
+          <li>Project planning</li>
         </ul>
       </td>
     </tr>
@@ -86,7 +86,7 @@ I'm now loooking for my first role in tech so I can build amazing software for a
 ## Stats
 
 <a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArifEbrahim&count_private=true&show_icons=true&include_all_commits=true&theme=react" height="175px" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArifEbrahim&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide=issues" height="175px" />
 </a>
 <a href="">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=react" height="175px"/>
