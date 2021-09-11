@@ -10,7 +10,7 @@ I'm now loooking for my first role in tech so I can build amazing software for a
 ## Projects
 | Name | Description | Technologies |
 | ---- | ----------- | ------------ |
-| [__Tutoroom__](https://github.com/ArifEbrahim/tutoroom_fe) | Final project at Makers. A web app that allows tutors and students to connect. This is the React frontend that works with a Ruby on Rails API backend | React, JavaScript, CSS, JWT, Axios, Rails API |
+| [__Tutoroom__](https://github.com/ArifEbrahim/tutoroom_fe) | Final project at Makers. A web app that allows tutors and students to connect. This is the React frontend that works with a Ruby on Rails API backend. | React, JavaScript, CSS, JWT, Axios, Rails API |
 | [__Catbook__](https://github.com/ArifEbrahim/Catbook) | A simplified clone of Facebook... but for cats. | Ruby on Rails, jQuery, PostgreSQL, HTML, CSS, RSpec, Capybara, Heroku |
 | [__MakersBnB__](https://github.com/ArifEbrahim/makers_bnb) | A simplified clone of AirBnB. | Ruby, Sinatra, HTML, CSS, RSpec, Capybara |
 | [__Bowling Challenge__](https://github.com/ArifEbrahim/bowling_challenge_JS) | A bowling scorecard calculator. | JavaScript, HTML, CSS, Jasmine |
@@ -70,7 +70,7 @@ I'm now loooking for my first role in tech so I can build amazing software for a
           <li>RESTful APIs</li>
           <li>Continuous Integration & Deployment</li>
           <li>DCVS / Git workflow</li>
-          <li>Project planning</li>
+          <li>Project planning: Trello, class diagrams, wireframes</li>
         </ul>
       </td>
     </tr>
