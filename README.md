@@ -6,6 +6,7 @@ I recently graduated from Europe's leading coding bootcamp [Makers Academy](http
 
 I'm now loooking for my first role in tech so I can build amazing software for an innovative company.
 
+<br>
 <div align="center">
 <a href="https://www.linkedin.com/in/arif-e/">
 <img src="https://img.shields.io/badge/Arif Ebrahim-0077B5?&logo=linkedin&style=social">
