@@ -1,21 +1,16 @@
 ![header](./images/gh_banner.png)
 
-<div align="center">
-
- <a href="https://www.linkedin.com/in/arif-e/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.codewars.com/users/ArifEbrahim">
-  <img src="https://www.codewars.com/users/ArifEbrahim/badges/micro"/>
-</a>
-
-</div>
-
 Hey there, I'm a **software developer** based in London. I enjoy solving difficult problems by writing clean, testable and DRY code. 
 
 I recently graduated from Europe's leading coding bootcamp [Makers Academy](https://makers.tech/) which taught me the fundamentals of software development like **Test Driven Development, Agile software development, Object Oriented Programming and debugging**. I documented what I learned each week at Makers in my [Learning Log](https://github.com/ArifEbrahim/learning-log). 
 
 I'm now loooking for my first role in tech so I can build amazing software for an innovative company.
+
+<div align="center">
+[![Linkedin Badge](https://img.shields.io/badge/-Arif%20Ebrahim-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arif-e/)](https://www.linkedin.com/in/arif-e/)
+[![Codewars Badge](https://www.codewars.com/users/ArifEbrahim/badges/micro)](https://www.codewars.com/users/ArifEbrahim)
+[![GitHub CV](https://img.shields.io/badge/CV-Arif%20Ebrahim-blue)](https://github.com/ArifEbrahim/CV)
+</div>
 
 ## Skills
 
