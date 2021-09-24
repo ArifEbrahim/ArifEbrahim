@@ -7,9 +7,9 @@ I recently graduated from Europe's leading coding bootcamp [Makers Academy](http
 I'm now loooking for my first role in tech so I can build amazing software for an innovative company.
 
 <div align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-Arif%20Ebrahim-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arif-e/)](https://www.linkedin.com/in/arif-e/)
-[![Codewars Badge](https://www.codewars.com/users/ArifEbrahim/badges/micro)](https://www.codewars.com/users/ArifEbrahim)
-[![GitHub CV](https://img.shields.io/badge/CV-Arif%20Ebrahim-blue)](https://github.com/ArifEbrahim/CV)
+![[Linkedin Badge](https://img.shields.io/badge/-Arif%20Ebrahim-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arif-e/)](https://www.linkedin.com/in/arif-e/)
+![[Codewars Badge](https://www.codewars.com/users/ArifEbrahim/badges/micro)](https://www.codewars.com/users/ArifEbrahim)
+![[GitHub CV](https://img.shields.io/badge/CV-Arif%20Ebrahim-blue)](https://github.com/ArifEbrahim/CV)
 </div>
 
 ## Skills
