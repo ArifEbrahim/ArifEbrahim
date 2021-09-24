@@ -87,7 +87,3 @@ I'm now loooking for my first role in tech so I can build amazing software for a
 <a href="">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=react" height="175px"/>
 </a>
-
-## Contact me
-
-
