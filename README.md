@@ -36,9 +36,10 @@ I'm now loooking for my first role in tech so I can build amazing software for a
       <td style="vertical-align: top">
         <ul>
           <li>JavaScript</li>
+          <li>Python</li>
           <li>Ruby</li>
-          <li>HTML5</li>
-          <li>CSS3</li>
+          <li>HTML</li>
+          <li>CSS</li>
         </ul>
       </td>
       <td style="vertical-align: top">
@@ -58,6 +59,7 @@ I'm now loooking for my first role in tech so I can build amazing software for a
           <li>Jest</li>
           <li>React Testing Library</li>
           <li>Jasmine</li>
+          <li>Pytest</li>
           <li>RSpec</li>
           <li>Capybara</li>
           <li>Insomnia</li>
@@ -68,6 +70,7 @@ I'm now loooking for my first role in tech so I can build amazing software for a
           <li>Test Driven Development</li>
           <li>Agile Software Development</li>
           <li>Object Oriented Programming</li>
+          <li>Effective debugging</li>
           <li>RESTful APIs</li>
           <li>Continuous Integration & Deployment</li>
           <li>DCVS / Git workflow</li>
