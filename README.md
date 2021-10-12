@@ -16,9 +16,9 @@ I'm now loooking for my first role in tech so I can build amazing software for a
 <a href="https://github.com/ArifEbrahim/CV">
 <img src="https://img.shields.io/badge/CV-Arif%20Ebrahim-blue">
 </a>
-<a href="https://www.hackerrank.com/arifebrahim">
+<!-- <a href="https://www.hackerrank.com/arifebrahim">
 <img src="https://img.shields.io/badge/HackerRank-Arif%20Ebrahim-brightgreen">
-</a>
+</a> -->
 </div>
 
 ## Skills
