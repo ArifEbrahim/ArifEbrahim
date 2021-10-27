@@ -89,9 +89,9 @@ I'm now loooking for my first role in tech so I can build amazing software for a
 
 <div align="center">
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArifEbrahim&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide=issues" height="165px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ArifEbrahim&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide=issues" height="155px"/>
   </a>
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=react" height="165px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=react" height="155px"/>
   </a>
 </div>
