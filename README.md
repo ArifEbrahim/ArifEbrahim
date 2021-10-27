@@ -1,24 +1,24 @@
 ![header](./images/gh_banner.png)
 
-Hey there, I'm a **software developer** based in London. I enjoy solving difficult problems by writing clean, testable and DRY code. 
+Hey there, I'm a **software developer** based in London. I enjoy solving difficult problems by writing clean, testable and DRY code.
 
-I recently graduated from Europe's leading coding bootcamp [Makers Academy](https://makers.tech/) which taught me the fundamentals of software development like **Test Driven Development, Agile software development, Object Oriented Programming and debugging**. I documented what I learned each week at Makers in my [Learning Log](https://github.com/ArifEbrahim/learning-log). 
+I recently graduated from Europe's leading coding bootcamp [Makers Academy](https://makers.tech/) which taught me the fundamentals of software development like **Test Driven Development, Agile software development, Object Oriented Programming and debugging**. I documented what I learned each week at Makers in my [Learning Log](https://github.com/ArifEbrahim/learning-log).
 
 I'm now loooking for my first role in tech so I can build amazing software for an innovative company.
 
 <div align="center">
-<a href="https://www.linkedin.com/in/arif-e/">
-<img src="https://img.shields.io/badge/Arif Ebrahim-0077B5?&logo=linkedin&style=social">
-</a>
-<a href="https://www.codewars.com/users/ArifEbrahim">
-<img src="https://www.codewars.com/users/ArifEbrahim/badges/micro"/>
-</a>
-<a href="https://github.com/ArifEbrahim/CV">
-<img src="https://img.shields.io/badge/CV-Arif%20Ebrahim-blue">
-</a>
-<!-- <a href="https://www.hackerrank.com/arifebrahim">
-<img src="https://img.shields.io/badge/HackerRank-Arif%20Ebrahim-brightgreen">
-</a> -->
+  <a href="https://www.linkedin.com/in/arif-e/">
+    <img src="https://img.shields.io/badge/Arif Ebrahim-0077B5?&logo=linkedin&style=social">
+  </a>
+  <a href="https://www.codewars.com/users/ArifEbrahim">
+    <img src="https://www.codewars.com/users/ArifEbrahim/badges/micro"/>
+  </a>
+  <a href="https://github.com/ArifEbrahim/CV">
+    <img src="https://img.shields.io/badge/CV-Arif%20Ebrahim-blue">
+  </a>
+  <!-- <a href="https://www.hackerrank.com/arifebrahim">
+    <img src="https://img.shields.io/badge/HackerRank-Arif%20Ebrahim-brightgreen">
+  </a> -->
 </div>
 
 ## Skills
@@ -87,9 +87,11 @@ I'm now loooking for my first role in tech so I can build amazing software for a
 
 ## Stats
 
-<a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArifEbrahim&count_private=true&show_icons=true&include_all_commits=true&theme=react" height="175px" />
-</a>
-<a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=react" height="175px"/>
-</a>
+<div align="center">
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api?username=ArifEbrahim&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide=issues" height="165px"/>
+  </a>
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=react" height="165px"/>
+  </a>
+</div>
