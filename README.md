@@ -2,9 +2,7 @@
 
 Hey there, I'm a **software developer** based in London. I enjoy solving difficult problems by writing clean, testable and DRY code.
 
-I recently graduated from Europe's leading coding bootcamp [Makers Academy](https://makers.tech/) which taught me the fundamentals of software development like **Test Driven Development, Agile software development, Object Oriented Programming and debugging**. I documented what I learned each week at Makers in my [Learning Log](https://github.com/ArifEbrahim/learning-log).
-
-I'm now loooking for my first role in tech so I can build amazing software for an innovative company.
+I graduated from Europe's leading coding bootcamp [Makers Academy](https://makers.tech/) which taught me the fundamentals of software development like **Test Driven Development, Agile software development, Object Oriented Programming and debugging**. I now work for [ByBits](https://www.bybits.co.uk/) as a software developer, helping to give consumers a better deal on their car insurance. 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arif-e/">
@@ -13,12 +11,12 @@ I'm now loooking for my first role in tech so I can build amazing software for a
   <a href="https://www.codewars.com/users/ArifEbrahim">
     <img src="https://www.codewars.com/users/ArifEbrahim/badges/micro"/>
   </a>
-  <a href="https://github.com/ArifEbrahim/CV">
+  <!-- <a href="https://github.com/ArifEbrahim/CV">
     <img src="https://img.shields.io/badge/CV-Arif%20Ebrahim-blue">
-  </a>
-  <!-- <a href="https://www.hackerrank.com/arifebrahim">
-    <img src="https://img.shields.io/badge/HackerRank-Arif%20Ebrahim-brightgreen">
   </a> -->
+  <a href="https://www.hackerrank.com/arifebrahim">
+    <img src="https://img.shields.io/badge/HackerRank-Arif%20Ebrahim-brightgreen">
+  </a>
 </div>
 
 ## Skills
