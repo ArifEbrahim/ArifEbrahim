@@ -2,7 +2,7 @@
 
 Hey there, I'm a **software developer** based in London. I enjoy solving difficult problems by writing clean, testable and DRY code.
 
-I graduated from Europe's leading coding bootcamp [Makers Academy](https://makers.tech/) which taught me the fundamentals of software development like **Test Driven Development, Agile software development, Object Oriented Programming and debugging**. I now work for [ByBits](https://www.bybits.co.uk/) as a software developer, helping to give consumers a better deal on their car insurance. 
+I graduated from Europe's leading coding bootcamp [Makers Academy](https://makers.tech/) which taught me the fundamentals of software development like **Test Driven Development, Agile software development, Object Oriented Programming and debugging**. I now work for [ByBits](https://www.bybits.co.uk/) as a software developer, developing the platform that enables usage based car insurance policies.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arif-e/">
