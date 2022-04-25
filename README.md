@@ -38,7 +38,6 @@ I graduated from Europe's leading coding bootcamp [Makers Academy](https://maker
         <ul>
           <li>JavaScript</li>
           <li>Python</li>
-          <li>Ruby</li>
           <li>HTML</li>
           <li>CSS</li>
         </ul>
@@ -46,11 +45,10 @@ I graduated from Europe's leading coding bootcamp [Makers Academy](https://maker
       <td style="vertical-align: top">
         <ul>
           <li>React</li>
+          <li>React Native</li>
+          <li>Bootstrap</li>
           <li>Node</li>
           <li>Express</li>
-          <li>Bootstrap</li>
-          <li>Ruby on Rails</li>
-          <li>Sinatra</li>
           <li>MongoDB</li>
           <li>PostgreSQL</li>
         </ul>
@@ -59,11 +57,9 @@ I graduated from Europe's leading coding bootcamp [Makers Academy](https://maker
         <ul>
           <li>Jest</li>
           <li>React Testing Library</li>
-          <li>Jasmine</li>
+          <li>Supertest</li>
           <li>Pytest</li>
-          <li>RSpec</li>
-          <li>Capybara</li>
-          <li>Insomnia</li>
+          <li>Postman</li>
         </ul>
       </td>
       <td style="vertical-align: top">
