@@ -29,7 +29,6 @@ I graduated from Europe's leading coding bootcamp [Makers Academy](https://maker
       <th>Languages</th>
       <th>Technologies</th>
       <th>Testing Frameworks</th>
-      <th>Concepts</th>
     </tr>
   </thead>
   <tbody>
@@ -60,17 +59,6 @@ I graduated from Europe's leading coding bootcamp [Makers Academy](https://maker
           <li>Supertest</li>
           <li>Pytest</li>
           <li>Postman</li>
-        </ul>
-      </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>Test Driven Development</li>
-          <li>Agile Software Development</li>
-          <li>Object Oriented Programming</li>
-          <li>Effective debugging</li>
-          <li>RESTful APIs</li>
-          <li>Continuous Integration & Deployment</li>
-          <li>DCVS / Git workflow</li>
         </ul>
       </td>
     </tr>
