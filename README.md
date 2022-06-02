@@ -76,7 +76,7 @@ I graduated from Europe's leading coding bootcamp [Makers Academy](https://maker
 
 <div align="center">
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArifEbrahim&count_private=true&show_icons=true&include_all_commits=true&theme=react" height="155px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ArifEbrahim&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide=issues" height="155px"/>
   </a>
   <a href="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=react" height="155px"/>
