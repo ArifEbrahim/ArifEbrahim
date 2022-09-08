@@ -38,7 +38,7 @@ Hey there, I'm a **front-end developer** based in London. I enjoy building compl
           <ul>
             <li>React</li>
             <li>React Native</li>
-            <li>Redux Toolkit<li>
+            <li>Redux Toolkit</li>
             <li>Bootstrap</li>
             <li>HTML</li>
             <li>CSS</li>
@@ -56,7 +56,7 @@ Hey there, I'm a **front-end developer** based in London. I enjoy building compl
           <ul>
             <li>Jest</li>
             <li>React Testing Library</li>
-            <li>Cypress<li>
+            <li>Cypress</li>
             <li>Supertest</li>
             <li>Postman</li>
           </ul>
