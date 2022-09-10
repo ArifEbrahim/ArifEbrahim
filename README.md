@@ -1,6 +1,6 @@
 ![header](./images/gh_banner.png)
 
-Hey there, I'm a **front-end developer** based in London. I enjoy building complex and responsive web apps using modern coding techniques. I particularly enjoying working in React & Typescript.
+Hey there, I'm a **front-end developer** based in London. I enjoy building complex and responsive web apps using modern coding techniques. I particularly enjoying working with React, Redux & Typescript.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arif-e/">
