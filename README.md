@@ -3,76 +3,27 @@
 Hey there, I'm a **front-end developer** based in London. I enjoy building complex and responsive web apps using modern coding techniques. I particularly enjoying working with React, Redux & Typescript.
 
 <div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farifebrahim&label=Visitors&countColor=%2319be25&style=flat" />
   <a href="https://www.linkedin.com/in/arif-e/">
-    <img src="https://img.shields.io/badge/Arif Ebrahim-0077B5?&logo=linkedin&style=social">
+    <img src="https://img.shields.io/badge/LinkedIn-Arif_Ebrahim-blue">
   </a>
   <a href="https://www.codewars.com/users/ArifEbrahim">
     <img src="https://www.codewars.com/users/ArifEbrahim/badges/micro"/>
   </a>
-  <a href="https://www.hackerrank.com/arifebrahim">
-    <img src="https://img.shields.io/badge/HackerRank-Arif%20Ebrahim-brightgreen">
-  </a>
 </div>
 
-## Skills
+## Tech
 
 <div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>Languages</th>
-        <th>Front-end</th>
-        <th>Back-end</th>
-        <th>Testing Frameworks</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="vertical-align: top">
-          <ul>
-            <li>JavaScript</li>
-            <li>TypeScript</li>
-          </ul>
-        </td>
-        <td style="vertical-align: top">
-          <ul>
-            <li>React</li>
-            <li>React Native</li>
-            <li>Redux Toolkit</li>
-            <li>Bootstrap</li>
-            <li>HTML</li>
-            <li>CSS</li>
-          </ul>
-        </td>
-        <td style="vertical-align: top">
-          <ul>
-            <li>Node</li>
-            <li>Express</li>
-            <li>MongoDB</li>
-            <li>PostgreSQL</li>
-          </ul>
-        </td>
-        <td style="vertical-align: top">
-          <ul>
-            <li>Jest</li>
-            <li>React Testing Library</li>
-            <li>Cypress</li>
-            <li>Supertest</li>
-            <li>Postman</li>
-          </ul>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-## Stats
-
-<div align="center">
-  <a href="">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArifEbrahim&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide=issues" height="155px"/>
-  </a>
-  <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifEbrahim&layout=compact&theme=react" height="155px"/>
-  </a>
+  <img src="https://img.shields.io/badge/-TypeScript-000000?logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=Next.JS" />
+  <img src="https://img.shields.io/badge/-Redux-000000?logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/-CSS-000000?logo=CSS&logoColor=663399" />
+  <img src="https://img.shields.io/badge/-Jest-000000?logo=jest&logoColor=C21325" />
+  <img src="https://img.shields.io/badge/-Testing_Library-000000?logo=testinglibrary&logoColor=E33332" />
+  <img src="https://img.shields.io/badge/-Cypress-000000?logo=cypress&logoColor=69D3A7" />
+  <img src="https://img.shields.io/badge/-Postman-000000?logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/-Git-000000?logo=git&logoColor=F05032" />
 </div>
