@@ -4,10 +4,10 @@ Hey there, I'm a **front-end developer** based in London. I enjoy building compl
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farifebrahim&label=Visitors&countColor=%2319be25&style=flat" />
-  <a href="https://www.linkedin.com/in/arif-e/">
+  <a style="text-decoration: none" href="https://www.linkedin.com/in/arif-e/">
     <img src="https://img.shields.io/badge/LinkedIn-Arif_Ebrahim-blue">
   </a>
-  <a href="https://www.codewars.com/users/ArifEbrahim">
+  <a style="text-decoration: none" href="https://www.codewars.com/users/ArifEbrahim">
     <img src="https://www.codewars.com/users/ArifEbrahim/badges/micro"/>
   </a>
 </div>
