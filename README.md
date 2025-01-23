@@ -3,16 +3,10 @@
 Hey there, I'm a **front-end developer** based in London. I enjoy building complex and responsive web apps using modern coding techniques. I particularly enjoying working with React, Redux & Typescript.
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farifebrahim&label=Visitors&countColor=%2319be25&style=flat" />
-  <a style="text-decoration: none !important;" href="https://www.linkedin.com/in/arif-e/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arif_Ebrahim-blue">
-  </a>
-  <a style="text-decoration:none;" href="https://www.codewars.com/users/ArifEbrahim">
-    <img src="https://www.codewars.com/users/ArifEbrahim/badges/micro"/>
-  </a>
-</div>
 
-## Tech
+![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farifebrahim&label=Visitors&countColor=%2319be25&style=flat) [![](https://img.shields.io/badge/LinkedIn-Arif_Ebrahim-blue)](https://www.linkedin.com/in/arif-e/) [![](https://www.codewars.com/users/ArifEbrahim/badges/micro)](https://www.codewars.com/users/ArifEbrahim)
+
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-TypeScript-000000?logo=typescript&logoColor=3178C6" />
